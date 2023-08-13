@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @HESAMOSTAD
 - 🌱 I’m currently learning ...
 - Here is RAGON OS V0.002
-- HELP ME FOR Reslove my Issues
+- its a good project see this
+- don't forgot follow me for other projects.
+- 
 
 
 <!---
